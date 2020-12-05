@@ -1,0 +1,24 @@
+Note : This installation requires an active internet connection...
+
+>> Go to "https://codelite.org/"
+
+>> Click on "Download CodeLite version_Number" -- 14.0.0 at the time of creation
+
+>> Select installer as per OS. Eg : windows 32,64bit, Linux, maxOS etc
+
+>> Install the software after download
+
+>> Launch Codelite
+
+>> Setup the development profile from the popup "Welcome to setup wizard"
+
+>> Select C/C++ development profile
+
+>> click on scan to check if we have any C++ compilers available in the system.
+-- If nothing is available click on Install. After installing the compiler again click on scan
+
+>> Select the theme dafault, Grey, light or dark. (I prefer dark :D )
+
+>> indent using tabs would give you a nice view of the code
+
+>> Finish
